@@ -6,7 +6,7 @@ A simple password generator in rust
 
 You need to have cargo & rustup installed on your pc to use this.
 
-(Here)[https://www.rust-lang.org/tools/install] you can find a tutorial to set up your pc in order to run the project.
+[Here](https://www.rust-lang.org/tools/install) you can find a tutorial to set up your pc in order to run the project.
 
 ## __How to use it__
 
